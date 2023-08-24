@@ -2123,7 +2123,7 @@
 						<left>30</left>
 						<top>120</top>
 						<include content="InfoWallMovieLayout">
-							<param name="infolabels" value="false" />
+							<param name="infolabels" value="true" />
 						</include>
 					</control>
 				</itemlayout>
@@ -2138,7 +2138,7 @@
 						<top>120</top>
 						<include content="InfoWallMovieLayout">
 							<param name="focused" value="true" />
-							<param name="infolabels" value="false" />
+							<param name="infolabels" value="true" />
 						</include>
 					</control>
 				</focusedlayout>
