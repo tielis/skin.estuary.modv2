@@ -1,3 +1,5 @@
 .gitignore
 .idea/*
 xml/script-skinshortcuts-includes.xml
+/.vs
+/media/Textures.xbt
